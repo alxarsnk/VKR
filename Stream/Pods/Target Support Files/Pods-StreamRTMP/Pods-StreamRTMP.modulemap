@@ -1,0 +1,6 @@
+framework module Pods_StreamRTMP {
+  umbrella header "Pods-StreamRTMP-umbrella.h"
+
+  export *
+  module * { export * }
+}
